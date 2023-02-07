@@ -1,5 +1,5 @@
 # Deploy
-https://app.netlify.com/sites/redux-sagas-news/settings/general
+https://redux-sagas-news.netlify.app/
 
 # Getting Started with Create React App
 
